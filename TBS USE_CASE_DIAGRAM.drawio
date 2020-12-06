@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T14:21:30.817Z" agent="5.0 (Windows)" etag="fPr1eLbI3wMVSZd1qKpq" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T15:16:15.072Z" agent="5.0 (Windows)" etag="_H9A6Q-n54gofO3a6LM-" version="13.10.9" type="github">
   <diagram id="5KP6Ix1Ujum4DQlMS5nm" name="Page-1">
     <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -80,7 +80,7 @@
           <mxGeometry x="354" y="760" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-29" value="Yeni Seyirci" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="220.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="1501" y="220.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-31" value="" style="endArrow=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZJnfvKLTV9S15hEJAEC-1" target="PZJnfvKLTV9S15hEJAEC-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -137,43 +137,100 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-47" value="Bilet Rezerve Et" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="210.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="1321" y="210.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-48" value="" style="endArrow=none;html=1;exitX=0.992;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1260" y="290.5" as="sourcePoint" />
-            <mxPoint x="1310" y="240.5" as="targetPoint" />
+            <mxPoint x="1451" y="290.5" as="sourcePoint" />
+            <mxPoint x="1501" y="240.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-49" value="Rezervasyon Masasını Ziyaret Et" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="50.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="1222" y="40" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-50" value="BRS Kayıt Ol" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1029" y="360" width="120" height="80" as="geometry" />
+          <mxGeometry x="1220" y="360" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VGsMBg79oWYqIB5AP5ty-51" value="" style="endArrow=none;html=1;entryX=0.381;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.943;exitY=0.748;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-49" target="VGsMBg79oWYqIB5AP5ty-47">
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-51" value="" style="endArrow=none;html=1;entryX=0.381;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.943;exitY=0.748;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="VGsMBg79oWYqIB5AP5ty-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="100.5" as="sourcePoint" />
-            <mxPoint x="1180" y="50.5" as="targetPoint" />
+            <mxPoint x="1314.1599999999999" y="110.34000000000003" as="sourcePoint" />
+            <mxPoint x="1371" y="50.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-52" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-50">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1130" y="340.5" as="sourcePoint" />
-            <mxPoint x="1180" y="290.5" as="targetPoint" />
+            <mxPoint x="1321" y="340.5" as="sourcePoint" />
+            <mxPoint x="1371" y="290.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-53" value="Kayıtlı Seyirci" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1300" y="629.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="1570" y="625" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-58" value="BRS Seyirci Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="609.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="1400" y="605" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VGsMBg79oWYqIB5AP5ty-59" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-58">
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-59" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1250" y="700" as="sourcePoint" />
-            <mxPoint x="1300" y="650" as="targetPoint" />
+            <mxPoint x="1520" y="645" as="sourcePoint" />
+            <mxPoint x="1570" y="645.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-61" value="Gösteri Sec" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-62" value="Koltuk Rezerve Et" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="499.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-63" value="Bilet Al" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="760" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-66" value="Tarih Sec" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="605" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-67" value="Gösteri Listele" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="605" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-68" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-66">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1352" y="644.58" as="sourcePoint" />
+            <mxPoint x="1402" y="644.58" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-69" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-66" target="VGsMBg79oWYqIB5AP5ty-67">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="550" as="sourcePoint" />
+            <mxPoint x="1140" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-70" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-71" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.007;entryY=0.571;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-67" target="VGsMBg79oWYqIB5AP5ty-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="550" as="sourcePoint" />
+            <mxPoint x="1140" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-72" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-73" value="" style="endArrow=classic;html=1;exitX=0.049;exitY=0.227;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.722;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-61" target="VGsMBg79oWYqIB5AP5ty-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="580" as="sourcePoint" />
+            <mxPoint x="920" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-74" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-75" value="" style="endArrow=classic;html=1;exitX=0.222;exitY=0.935;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.963;entryY=0.289;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-61" target="VGsMBg79oWYqIB5AP5ty-63">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="820" y="580" as="sourcePoint" />
+            <mxPoint x="920" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-76" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-75">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

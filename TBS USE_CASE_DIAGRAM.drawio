@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T14:13:38.974Z" agent="5.0 (Windows)" etag="5N2OgQSuI54TJqIGFPpU" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T14:21:30.817Z" agent="5.0 (Windows)" etag="fPr1eLbI3wMVSZd1qKpq" version="13.10.9" type="github">
   <diagram id="5KP6Ix1Ujum4DQlMS5nm" name="Page-1">
     <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -164,15 +164,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-53" value="Kayıtlı Seyirci" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;" vertex="1" parent="1">
-          <mxGeometry x="1310" y="629.5" width="30" height="60" as="geometry" />
+          <mxGeometry x="1300" y="629.5" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-58" value="BRS Seyirci Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="609.5" width="120" height="80" as="geometry" />
+          <mxGeometry x="1090" y="609.5" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VGsMBg79oWYqIB5AP5ty-59" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-58">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1260" y="700" as="sourcePoint" />
-            <mxPoint x="1310" y="650" as="targetPoint" />
+            <mxPoint x="1250" y="700" as="sourcePoint" />
+            <mxPoint x="1300" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -1,1 +1,181 @@
-<mxfile host="app.diagrams.net" modified="2020-11-29T13:55:24.391Z" agent="5.0 (Windows)" etag="HxtJHic6s9M0T4wVcrS1" version="13.10.4" type="github"><diagram id="5KP6Ix1Ujum4DQlMS5nm" name="Page-1">zVltb5swEP41fFyEMRD42NCsU9dJUTNt7b654BGrDo4c54X9+plgCAaaNLRJiFrJd7bP4bnn7nzEgMF8e8fRYvaDRZgalhltDXhrWBawLcvI/swozTVDF+aKmJNILdorpuQfVkpTaVckwkttoWCMCrLQlSFLEhwKTYc4Zxt92V9G9VMXKMYNxTREtKn9TSIxy7WeNdzrv2ESz4qTgevnM3NULFZPspyhiG0qKjg2YMAZE/lovg0wzcArcMn3fX1jtvxiHCfiPRsmf+6Tv+vvDz9/+VPgzMb3N+Pgi7KyRnSlHtiwXCrtjSKylsM4Gz7if5iv0TJliVz7bATQGLkJFiQkS1KslwdXtrRYKVQvvK6pb92hJdLCBRK4RTZczelNKBiXa9aYy9MRfUAvmE7Ykggivxu8fWFCsHllwQ0lcTYh2EJqZ2JOpQDkkK0EJQkOStqY5dFVSAt8pDm8ragUxHeYzbHgqVyiZofK24ru0FPyZk8eqFSzCm9cpUOKrnFpeO9ROVBOPcHBTsPBj89S/o5SI7CNERANuKVRGVxSGG1mRODpAoXZzEbGtw7hJ6BlmTpcwG3CBawWvLxz4eW24/XAYpKRf8JZzNG8V6BZVwdt2JJF6gAl0U2WjqWUsATroEgsePqUBeHAdLxC8bxTDJ1Cvt2qMM2ltCpNMCfyWTA/FskC8RiL4wGDI60uNJ1RAdtpwbrQcUyRIGu9mrQ5QJ0wYUR+49LX/hvppLCwZCseYrWpmvxrdoBdMwRrhnJcGoZ2dCifujtD/E9kiG19BkPwloinyn4p5uaAkvbGMiGtCO8mW+6d4+X3KCndXpES1BIQ9Luy0qkZsi/LyuKSWaHlXX67WUrvEir/tQtPr9I+vHraB223x25RrUf00YBWsQu0wIW1Tw/juCBcXwLZ0illW10DuX7tHV44kK2DgSxnxq+SkdcMXxvY7RW44mq/xdVn6wwAPIbZiNB4lwSTTMongySUtvsFpW1eG0r7IJRpBt9012+ZtF/ItbSnl0Wu2Z+Ot0IWjeWhSvJCWfi6qwrFGyPg5uJXkp2/y+bVOlPe9XwP6jXD8y5ZJsz31gnr9DpR9s4fLAplYvro7c6uNy91Q+cuCs229Lzcgjq3sledp3Kr643oEpyEV+QkcAZm9ePW7i1g4NodWQrgAJqyhDiuDYDlgRpn/YHvO57j+sAZeia0L0th77IUHmoE9jskxz4T2L4igU3zIIH97gSGvneAwLZ7XQI3X/zULpmPaMH4Sg4ytR/wnnXZDrh2l219uMsuw1t/0eWcHNwfCNL3xqh/eoyes0GGb7Dh5AbZq3Xa9Rt15ziU4v43xHz5/pdYOP4P</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-06T14:13:38.974Z" agent="5.0 (Windows)" etag="5N2OgQSuI54TJqIGFPpU" version="13.10.9" type="github">
+  <diagram id="5KP6Ix1Ujum4DQlMS5nm" name="Page-1">
+    <mxGraphModel dx="1185" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PZJnfvKLTV9S15hEJAEC-1" value="&lt;div&gt;Rezervasyon Yöneticisi&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="50" y="380" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZJnfvKLTV9S15hEJAEC-5" value="RY Kayıt" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZJnfvKLTV9S15hEJAEC-6" value="RY Login Program" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZJnfvKLTV9S15hEJAEC-7" value="" style="endArrow=none;html=1;entryX=0.058;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="PZJnfvKLTV9S15hEJAEC-5" edge="1" source="PZJnfvKLTV9S15hEJAEC-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="380" as="sourcePoint" />
+            <mxPoint x="140" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PZJnfvKLTV9S15hEJAEC-10" value="Gösterileri Yönet" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PZJnfvKLTV9S15hEJAEC-12" value="Gösteri Ekle" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="320" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZJnfvKLTV9S15hEJAEC-13" value="Gösteri Bilgilerini Güncelle" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="390" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZJnfvKLTV9S15hEJAEC-14" value="Gösteriyi Sİl" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="470" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PZJnfvKLTV9S15hEJAEC-19" value="Gösteri Raporu Üret" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="354" y="489.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-1" value="Koltuk Müsaitlik Durumu Görüntüle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="620" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-5" value="Bilet Onayla" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="700" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-14" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="PZJnfvKLTV9S15hEJAEC-10" target="PZJnfvKLTV9S15hEJAEC-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-15" value="extend" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-16" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.993;exitY=0.612;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PZJnfvKLTV9S15hEJAEC-10" target="PZJnfvKLTV9S15hEJAEC-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="420" as="sourcePoint" />
+            <mxPoint x="410" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-17" value="extend" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-18" value="" style="endArrow=classic;html=1;entryX=-0.009;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PZJnfvKLTV9S15hEJAEC-10" target="PZJnfvKLTV9S15hEJAEC-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="370" as="sourcePoint" />
+            <mxPoint x="420" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-19" value="İnclude" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-22" value="" style="endArrow=classic;html=1;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-1" target="VGsMBg79oWYqIB5AP5ty-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484" y="670" as="sourcePoint" />
+            <mxPoint x="584" y="670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-23" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-24" value="Gösteri İptal Et" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-29" value="Yeni Seyirci" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="220.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-31" value="" style="endArrow=none;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZJnfvKLTV9S15hEJAEC-1" target="PZJnfvKLTV9S15hEJAEC-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="445" as="sourcePoint" />
+            <mxPoint x="150" y="395" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-33" value="" style="endArrow=classic;html=1;entryX=0.083;entryY=0.256;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.951;exitY=0.727;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="VGsMBg79oWYqIB5AP5ty-35" parent="1" source="PZJnfvKLTV9S15hEJAEC-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="560" as="sourcePoint" />
+            <mxPoint x="420" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-34" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-35" value="Koltuk Reservasyon Onayla" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="569.5" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-36" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="PZJnfvKLTV9S15hEJAEC-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="399.58" as="sourcePoint" />
+            <mxPoint x="340" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-37" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-39" value="" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PZJnfvKLTV9S15hEJAEC-6" target="PZJnfvKLTV9S15hEJAEC-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-40" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-41" value="" style="endArrow=classic;html=1;exitX=0.597;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.071;entryY=0.279;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="PZJnfvKLTV9S15hEJAEC-6" target="VGsMBg79oWYqIB5AP5ty-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="510" as="sourcePoint" />
+            <mxPoint x="410" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-42" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-43" value="" style="endArrow=classic;html=1;exitX=0.389;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="PZJnfvKLTV9S15hEJAEC-6" target="VGsMBg79oWYqIB5AP5ty-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="584" as="sourcePoint" />
+            <mxPoint x="250" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-44" value="Label" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VGsMBg79oWYqIB5AP5ty-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-47" value="Bilet Rezerve Et" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="210.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-48" value="" style="endArrow=none;html=1;exitX=0.992;exitY=0.375;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="290.5" as="sourcePoint" />
+            <mxPoint x="1310" y="240.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-49" value="Rezervasyon Masasını Ziyaret Et" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010" y="50.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-50" value="BRS Kayıt Ol" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1029" y="360" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-51" value="" style="endArrow=none;html=1;entryX=0.381;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.943;exitY=0.748;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-49" target="VGsMBg79oWYqIB5AP5ty-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="100.5" as="sourcePoint" />
+            <mxPoint x="1180" y="50.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-52" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-50">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1130" y="340.5" as="sourcePoint" />
+            <mxPoint x="1180" y="290.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-53" value="Kayıtlı Seyirci" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=4;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="629.5" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-58" value="BRS Seyirci Login" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="609.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VGsMBg79oWYqIB5AP5ty-59" value="" style="endArrow=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VGsMBg79oWYqIB5AP5ty-58">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="700" as="sourcePoint" />
+            <mxPoint x="1310" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
